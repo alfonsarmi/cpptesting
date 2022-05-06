@@ -26,3 +26,4 @@ int main () {
   cout << c.x << "," << c.y;
   return 0;
 }
+
